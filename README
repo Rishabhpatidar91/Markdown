@@ -1,0 +1,9 @@
+Here are the steps to run this repo:-
+ - To clone this repo:- 
+   - To Clone this Repo, Run this command: `git clone https://github.com/Rishabhpatidar91/Markdown.git`
+   - Now run `nvm use` in both the frontend & backend folder before installing the packages.
+   - Install the correct node version before installing the packages.
+   - Now install the packages in both frontend and backend using the `npm install` command.
+   - now run both the frontend and the backend using the `npm start` command.
+   - Now you can test the application.
+
